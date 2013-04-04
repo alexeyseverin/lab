@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+int main()
+{
+     int a, b, i, n, k;
+     float I, N, P;
+     float *p;
+     cout << "Здравствуйте, эта программа вычисляет количество информации, полученное при реализации одного из событий" << "\n\n";
+     cout << "Введите 0, если события с разной вероятностью или 1, если события в задаче с одинаковой вероятностью и нажмите Enter" << "\n";
+     cin >> a;
+    getch(); 
+}
